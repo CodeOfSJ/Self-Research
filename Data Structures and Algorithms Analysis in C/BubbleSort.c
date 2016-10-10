@@ -1,4 +1,7 @@
-/*use bubble sort find the biggest 3 numbers*/
+/* Chapter 1.1
+ * find the  K biggest Number In  N numbers
+ * BubbleShort
+ */
 #include "stdio.h"
 main()
 {

@@ -1,3 +1,9 @@
+/* Chapter 1.1
+ * find the  K biggest Number In  N numbers
+ * First pick K number into array b[]
+ * Second Compare the other number with every member in b[] and find the position
+ * Third assign the a[i] value to  the position b[c] and exchange the value after b[c] 
+ */
 #include "stdio.h"
 int i=0;
 main()
